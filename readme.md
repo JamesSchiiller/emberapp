@@ -18,7 +18,7 @@
 
 ## Validation
 
-* Should see ember mascot when browsing to <domain>:4200.
+* Should see ember mascot when browsing to {domain}:4200.
 
 ## Refs
 
